@@ -10,6 +10,5 @@ node_modules/
 /results/
 *.mp4
 build/*
-.remote-sync.json
 .idea
 /uploads
