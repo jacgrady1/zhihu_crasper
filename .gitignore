@@ -1,0 +1,15 @@
+*.log
+/artifacts/
+node_modules/
+/components-dist/
+.sass-cache/
+*.swp
+*.node
+.DS_Store
+*.map
+/results/
+*.mp4
+build/*
+.remote-sync.json
+.idea
+/uploads
