@@ -13,3 +13,4 @@ build/*
 .idea
 /uploads
 /audio
+output.json
